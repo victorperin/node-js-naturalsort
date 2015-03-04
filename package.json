@@ -1,0 +1,23 @@
+{
+  "name": "js-naturalsort",
+  "version": "0.7.0",
+  "description": "Natural Sort algorithm with unicode support created by Jim Palmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorperin/node-js-naturalsort.git"
+  },
+  "keywords": [
+    "Natural Sort",
+    "Sort"
+  ],
+  "author": "Jim Palmer",
+  "license": "MIT license",
+  "bugs": {
+    "url": "https://github.com/victorperin/node-js-naturalsort/issues"
+  },
+  "homepage": "https://github.com/victorperin/node-js-naturalsort"
+}
